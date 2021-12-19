@@ -2,7 +2,7 @@ from dajapy import __version__, is_dajare
 
 
 def test_version():
-    assert __version__ == '0.1.0'
+    assert __version__ == '0.1.1'
 
 def test_is_dajare_true():
     """

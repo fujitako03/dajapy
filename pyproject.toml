@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "dajapy"
-version = "0.1.0"
+version = "0.1.1"
 license = "MIT"
 description = "日本語のダジャレを判定するPythonパッケージ"
 authors = ["fujitako03 <okome.osakana.oniku@gmail.com>"]
