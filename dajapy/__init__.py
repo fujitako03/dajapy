@@ -1,6 +1,6 @@
 __version__ = '0.1.0'
 
-from shareka import Shareka
+from .shareka import Shareka
 
 
 def is_dajare(sentence: str, kaburi_count=2) -> bool:
