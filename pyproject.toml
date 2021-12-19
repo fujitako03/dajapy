@@ -6,6 +6,8 @@ authors = ["fujitako03 <thisis.snsd03@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
+SudachiPy = "^0.6.2"
+SudachiDict-core = "^20210802.post1"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
