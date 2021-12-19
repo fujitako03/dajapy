@@ -15,6 +15,12 @@ def is_dajare(sentence: str, kaburi_count=2) -> bool:
 
     Returns:
         bool: [description]
+
+    Example:
+        >>> is_dajare("ハエは速え～", 2)
+        True
+        >>> is_dajare("ハエは速え～", 3)
+        False
     """
     share = Shareka(
         sentence=sentence,
