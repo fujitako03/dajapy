@@ -7,6 +7,7 @@ authors = ["fujitako03 <okome.osakana.oniku@gmail.com>"]
 homepage = "https://github.com/fujitako03"
 repository = "https://github.com/fujitako03/dajapy"
 documentation = "https://github.com/fujitako03/dajapy"
+readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.9"
