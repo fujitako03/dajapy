@@ -1,8 +1,12 @@
 [tool.poetry]
 name = "dajapy"
 version = "0.1.0"
-description = ""
-authors = ["fujitako03 <thisis.snsd03@gmail.com>"]
+license = "MIT"
+description = "日本語のダジャレを判定するPythonパッケージ"
+authors = ["fujitako03 <okome.osakana.oniku@gmail.com>"]
+homepage = "https://github.com/fujitako03"
+repository = "https://github.com/fujitako03/dajapy"
+documentation = "https://github.com/fujitako03/dajapy"
 
 [tool.poetry.dependencies]
 python = "^3.9"
